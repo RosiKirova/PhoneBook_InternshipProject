@@ -1,0 +1,31 @@
+﻿  ChildFrm.cpp
+  CitiesData.cpp
+  CitiesDialog.cpp
+  CitiesDoc.cpp
+  CitiesTable.cpp
+  CitiesView.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PersonsData.cpp
+  PersonsDialog.cpp
+  PersonsDoc.cpp
+  PersonsTable.cpp
+  PersonsView.cpp
+  PhoneNumbersDialog.cpp
+  PhoneNumbersTable.cpp
+  PhoneTypesData.cpp
+  PhoneTypesDialog.cpp
+  PhoneTypesDoc.cpp
+  Compiling...
+  PhoneTypesTable.cpp
+  PhoneTypesView.cpp
+  Phonebook.cpp
+  PropertiesWnd.cpp
+  Generating code
+  44 of 1511 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Phonebook.vcxproj -> C:\Users\User\source\repos\Phonebook\Release\Phonebook.exe

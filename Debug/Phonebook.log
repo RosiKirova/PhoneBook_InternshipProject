@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  CitiesTable.cpp
+  DataSourceAccessor.cpp
+  CitiesData.cpp
+  CitiesDoc.cpp
+  CitiesDialog.cpp
+  CitiesView.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PersonDetails.cpp
+  PersonsData.cpp
+  PersonsDialog.cpp
+  PersonsDoc.cpp
+  PersonsTable.cpp
+  PersonsView.cpp
+  Phonebook.cpp
+  PhoneNumbersDialog.cpp
+  PhoneNumbersTable.cpp
+  Generating Code...
+  Compiling...
+  PhoneTypesData.cpp
+  PhoneTypesDialog.cpp
+  PhoneTypesDoc.cpp
+  PhoneTypesTable.cpp
+  PhoneTypesView.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating Code...
+  Phonebook.vcxproj -> C:\Users\User\source\repos\Phonebook\Debug\Phonebook.exe
